@@ -1,0 +1,14 @@
+# Birthday Attack Hash Collision Simulation Requirements
+
+# Core dependencies
+matplotlib>=3.5.0
+numpy>=1.21.0
+
+# Optional dependencies for enhanced functionality
+# pandas>=1.3.0  # For data analysis
+# jupyter>=1.0.0  # For notebook demos
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# pylint>=2.12.0
